@@ -1,0 +1,5 @@
+Requirements
+
+The files should be run in their jupyter notebooks, all other data is either sourced from Github (scikit-learn.ipynb takes teh dataset from here), or from the githubfolder (scipy-stats.ipynb uses the balance-scale.csv file for its data).
+
+Each file should be able to run from start to finish uninterupted via the run all command in Jupyter.
